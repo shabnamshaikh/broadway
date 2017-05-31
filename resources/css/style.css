@@ -1,9 +1,39 @@
 html, body, h1, h2, h3, p {
   font-family: Helvetica;
-
   text-align: center;
 }
 
-.menu li {
+.bkimg ul li {
   list-style-type: none;
+  font-size: 18px;
+  color: white;
+}
+
+.bkimg {
+  background-image: url("../images/flatiron.png")
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.bkdesign {
+  color: white;
+  background-image: url("../images/flatiron.png")
+}
+
+p {
+  font-size: 14px;
 }
