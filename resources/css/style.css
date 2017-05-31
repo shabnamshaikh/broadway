@@ -5,12 +5,16 @@ html, body, h1, h2, h3, p {
 
 .bkimg ul li {
   list-style-type: none;
-  font-size: 18px;
   color: white;
 }
 
 .bkimg {
   background-image: url("../images/flatiron.png")
+}
+
+.bkimg a {
+  color: white;
+  font-size: 18px;
 }
 
 h1 {
@@ -36,4 +40,15 @@ h3 {
 
 p {
   font-size: 14px;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+.footer a {
+  color: white;
 }
